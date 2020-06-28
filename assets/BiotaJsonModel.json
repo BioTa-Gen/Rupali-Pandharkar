@@ -157,10 +157,10 @@
         "GalleryPhoto": {
             "Photo1": "assets/G(1).jpg",
             "Photo2": "assets/G(2).jpg",
-            "Photo3": "assets/G(5).jpg",
+            "Photo3": null,
             "Photo4": "assets/G(4).jpg",
             "Photo5": "assets/G(3).jpg",
-            "Photo6": "assets/G(6).jpg"
+            "Photo6": null
         }
     }
 }
