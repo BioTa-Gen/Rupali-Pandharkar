@@ -1,0 +1,166 @@
+{
+    "Name": {
+        "english": "Rupali Pandarkar",
+        "marathi": "रुपाली पंदरकर"
+    },
+    "JobProfile": {
+        "english": "Engineer",
+        "marathi": "Engineer"
+    },
+    "Address": {
+        "english": "A/P: Pimpalgaon Pisa, Tal: Shrigonda, Dist: Ahmednagar",
+        "marathi": "पिंपळगाव पिसा, ता: श्रीगोंदा,जि: अहमदनगर"
+    },
+    "Facebook": null,
+    "Instagram": null,
+    "Email": "pre4195@gmail.com",
+    "CompanyLink": null,
+    "CompanyExperience": null,
+    "CompanyName": {
+        "english": null,
+        "marathi": null
+    },
+    "Hobby": {
+        "english": "Internet Surfing, Cooking,reading books,listening motivational stories, traveling,listening Songs",
+        "marathi": "इंटरनेट सर्फिंग, पाककला, पुस्तके वाचणे, प्रेरक कथा ऐकणे, प्रवास करणे, गाणे ऐकणे"
+    },
+    "PersonalInformation": {
+        "FullName": {
+            "english": "Rupali Eknath Pandarkar",
+            "marathi": "रुपाली एकनाथ पंदरकर"
+        },
+        "DateOfBirth": {
+            "english": "04/01/1995",
+            "marathi": "०४/०१/१९९५"
+        },
+        "BirthPlace": {
+            "english": "Pimpalgaon Pisa, Tal: Shrigonda,Dist: Ahmednagar.",
+            "marathi": "पिंपळगाव पिसा, ता: श्रीगोंदा, जि: अहमदनगर."
+        },
+        "BirthTime": {
+            "english": "8:50 PM",
+            "marathi": "8:50 रात्री"
+        },
+        "Color": {
+            "english": "Blonde",
+            "marathi": "गोरा"
+        },
+        "Height": {
+            "english": "5 feet 4 inches",
+            "marathi": "5 फूट 4 इंच"
+        },
+        "BloodGroup": {
+            "english": "A +ve",
+            "marathi": "A +ve"
+        },
+        "Gotra": {
+            "english": "Mandavya",
+            "marathi": "मांडव्या"
+        },
+        "Gan": {
+            "english": "Rakshas-Gan",
+            "marathi": "राक्षस-गण"
+        },
+        "Devak": {
+            "english": "Vadach Pan",
+            "marathi": "वडाच पान"
+        },
+        "Ras": {
+            "english": "Aquarius",
+            "marathi": "कुंभ"
+        },
+        "Kuldaivat": {
+            "english": "Tuljapurchi Bhavani-mata,Jejuricha Khandoba.",
+            "marathi": "तुळजापुरची भवानी-माता, जेजुरीचा खंडोबा."
+        },
+        "RasName": {
+            "english": "Gunvanti",
+            "marathi": "गुणवंती"
+        },
+        "Caste": {
+            "english": "Hindu-Maratha",
+            "marathi": "हिंदू-मराठा"
+        }
+    },
+    "Qualification": {
+        "Education": {
+            "english": "B.E.(Computer Engineering)",
+            "marathi": "बी.ई. (संगणक अभियांत्रिकी)"
+        },
+        "Job": {
+            "english": null,
+            "marathi": null
+        },
+        "Salary": {
+            "english": null,
+            "marathi": null
+        }
+    },
+    "FamilyInformation": {
+        "GrandfatherName": {
+            "english": "Appasaheb Baburao Pandarkar",
+            "marathi": "आप्पासाहेब बाबुराव पंदरकर"
+        },
+        "GrandmotherName": {
+            "english": "Chandrabhaga Appasaheb Pandarkar",
+            "marathi": "चंद्रभागा आप्पासाहेब पंदरकर"
+        },
+        "FatherName": {
+            "english": "Eknath Appasaheb Pandarkar",
+            "marathi": "एकनाथ आप्पासाहेब पंदरकर"
+        },
+        "MotherName": {
+            "english": "Surekha Eknath Pandarkar",
+            "marathi": "सुरेखा एकनाथ पंदरकर"
+        },
+        "SisterName": {
+            "english": "1.Swati Suresh Tarate (A/p: Palve khurd,Dist:A.nagar) 2.Sonali Sopan Chavan (A/p:Shirasgao kata,Dist:Pune)",
+            "marathi": "१.स्वती सुरेश तराटे (पालवे खुर्द, जि. एनगर) २.सोनाली सोपान चव्हाण (शिरसगाव काता, जि: पुणे)"
+        },
+        "BrotherName": {
+            "english": "Yogesh Eknath Pandarkar",
+            "marathi": "योगेश एकनाथ पंदरकर"
+        },
+        "Uncle": {
+            "english": "1) Popat Appasaheb Pandarkar, 2) Jalindar Appasaheb Pandarkar",
+            "marathi": "१) पोपट आप्पासाहेब पंदरकर, २) जालिंदर आप्पासाहेब पंदरकर"
+        },
+        "Mama": {
+            "english": "1) Kashinath Sarjerao Dalavi, 2) Tirshing Sarjerao Dalavi, 3)Dadabhau Sarjerao Dalavi",
+            "marathi": "१) काशिनाथ सर्जेराव दळवी, २) थिरसिंग सर्जेराव दळवी, ३) दादाभाऊ सर्जेराव दळवी"
+        },
+        "Aatya": {
+            "english": "1) Alka Kadam, 2) kavita Palaskar",
+            "marathi": "१) अलका कदम, २) कविता पळसकर"
+        },
+        "Mavshi": {
+            "english": "Sanjana Thorat",
+            "marathi": "संजना थोरात"
+        },
+        "Relatives": {
+            "english": "Chavan, Thorat, Palaskar, Kadam",
+            "marathi": "चव्हाण, थोरात, पळसकर, कदम"
+        }
+    },
+    "ContactMe": {
+        "EmailId": {
+            "english": "pre4195@gmail.com",
+            "marathi": "pre4195@gmail.com"
+        },
+        "MobileNo": {
+            "english": "9325373723(Father's Number)",
+            "marathi": "९३२५३७३७२३ (वडिलांचा नंबर)"
+        }
+    },
+    "Photos": {
+        "ProfilePhotoName": "assets/Profile.jpg",
+        "GalleryPhoto": {
+            "Photo1": "assets/G(1).jpg",
+            "Photo2": "assets/G(2).jpg",
+            "Photo3": "assets/G(3).jpg",
+            "Photo4": "assets/G(4).jpg",
+            "Photo5": "assets/G(5).jpg",
+            "Photo6": "assets/G(6).jpg"
+        }
+    }
+}
