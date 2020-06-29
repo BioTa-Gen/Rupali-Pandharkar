@@ -115,7 +115,7 @@
         },
         "SisterName": {
             "english": "1.Swati Suresh Tarate (A/p: Palve khurd,Dist:A.nagar) 2.Sonali Sopan Chavan (A/p:Shirasgao kata,Dist:Pune)",
-            "marathi": "१.स्वती सुरेश तराटे (पालवे खुर्द, जि. एनगर) २.सोनाली सोपान चव्हाण (शिरसगाव काता, जि: पुणे)"
+            "marathi": "१.स्वती सुरेश तराटे (पालवे खुर्द, जि. एनगर) २.सोनाली सोपान चव्हाण (शिरसगाव काटा, जि: पुणे)"
         },
         "BrotherName": {
             "english": "Yogesh Eknath Pandarkar",
@@ -127,7 +127,7 @@
         },
         "Mama": {
             "english": "1) Kashinath Sarjerao Dalavi, 2) Tirshing Sarjerao Dalavi, 3)Dadabhau Sarjerao Dalavi",
-            "marathi": "१) काशिनाथ सर्जेराव दळवी, २) थिरसिंग सर्जेराव दळवी, ३) दादाभाऊ सर्जेराव दळवी"
+            "marathi": "१) काशिनाथ सर्जेराव दळवी, २) तिरसिंग सर्जेराव दळवी, ३) दादाभाऊ सर्जेराव दळवी"
         },
         "Aatya": {
             "english": "1) Alka Kadam, 2) kavita Palaskar",
@@ -158,9 +158,9 @@
             "Photo1": "assets/G(1).jpg",
             "Photo2": "assets/G(2).jpg",
             "Photo3": null,
-            "Photo4": "assets/G(4).jpg",
-            "Photo5": "assets/G(3).jpg",
-            "Photo6": null
+            "Photo4": "assets/G(3).jpg",
+            "Photo5": "assets/G(4).jpg",
+            "Photo6": "assets/G(5).jpg"
         }
     }
 }
